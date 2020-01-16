@@ -1,2 +1,2 @@
 # Sarcasm-Detection
-Built a U-Net model for semantic segmentation for identifying the nuclei present in the images.The model was trained and tested on the ‘Data Science Bowl 2018’ Dataset.
+Built a LSTM model for classifying the data as sarcastic or non-sarcastic .The Model was trained and tested on News Headlines Dataset for Sarcasm Detection giving about 85% validation accuracy
